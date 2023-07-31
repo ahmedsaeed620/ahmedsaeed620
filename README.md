@@ -1,8 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Ahmed elsaied 🧑‍💻 </h1>
-==============================
 <h2 align='center'> Data scientist </h2>
 
---------------
+
 
 I am a data scientist with a bachelor's degree in computer science. I started Data Science Intern in (Epsilon Ai) at its beginning in September 2022. diploma. I was excited as I was coming from a field of business intelligence in (ITI) Interested in creating a dashboard that helps decision makers make useful decisions. So I cared that using a variety of tools and techniques to extract, clean, transform and analyze datasets, and the skill of implementing data-driven solutions and creating visualizations to communicate results effectively.
 
